@@ -5,4 +5,7 @@ export class AppService {
   getHello(): string {
     return 'nmsl';
   }
+  getSeach(): string {
+    return 'this is a seach function';
+  }
 }
